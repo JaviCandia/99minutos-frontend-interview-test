@@ -15,9 +15,9 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Screenshots
-![Alt text](prints/print1.PNG "Title")
+![Alt text](https://raw.githubusercontent.com/JaviCandia/99minutos-frontend-interview-test/JR-javiercandia/prints/Print1.PNG)
 
-![Alt text](prints/print2.PNG "Title")
+![Alt text](https://raw.githubusercontent.com/JaviCandia/99minutos-frontend-interview-test/JR-javiercandia/prints/Print2.PNG)
 
 ## Questions
 
